@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{3DB2DB8F-673E-4BE9-9E23-F22D6D495431}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Duck/Program.cs">
+    <Files>
+      <File FileName="Duck/Program.cs" Line="19" Column="33" />
+      <File FileName="Duck/MallarDuck.cs" Line="15" Column="1" />
+      <File FileName="Duck/RedheadDuck.cs" Line="6" Column="1" />
+      <File FileName="Duck/RubberDuck.cs" Line="10" Column="40" />
+      <File FileName="Duck/DecoyDuck.cs" Line="10" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Duck PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

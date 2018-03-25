@@ -1,0 +1,5 @@
+/Users/marianariossc/Documents/Duck/Duck/bin/Debug/Duck.exe
+/Users/marianariossc/Documents/Duck/Duck/bin/Debug/Duck.pdb
+/Users/marianariossc/Documents/Duck/Duck/obj/x86/Debug/Duck.csproj.CoreCompileInputs.cache
+/Users/marianariossc/Documents/Duck/Duck/obj/x86/Debug/Duck.exe
+/Users/marianariossc/Documents/Duck/Duck/obj/x86/Debug/Duck.pdb
